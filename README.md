@@ -1,6 +1,6 @@
 # Vac-and-fill
 
-This repository contains files related to the [vac-and-fill micromoulding technique](https://doi.org/10.1016/j.ijpharm.2023.123706) for fabricating microneedles.
+This repository contains files related to the [vac-and-fill micromoulding technique](https://doi.org/10.1016/j.ijpharm.2023.123706) for fabricating transdermal microneedle patches.
 
 ## Academic paper
 
